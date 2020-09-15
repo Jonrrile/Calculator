@@ -1,0 +1,13 @@
+C:\Users\Jonrr\workspace\Calculator-Challenge\bin\Debug\netcoreapp3.1\Calculator-Challenge.exe
+C:\Users\Jonrr\workspace\Calculator-Challenge\bin\Debug\netcoreapp3.1\Calculator-Challenge.deps.json
+C:\Users\Jonrr\workspace\Calculator-Challenge\bin\Debug\netcoreapp3.1\Calculator-Challenge.runtimeconfig.json
+C:\Users\Jonrr\workspace\Calculator-Challenge\bin\Debug\netcoreapp3.1\Calculator-Challenge.runtimeconfig.dev.json
+C:\Users\Jonrr\workspace\Calculator-Challenge\bin\Debug\netcoreapp3.1\Calculator-Challenge.dll
+C:\Users\Jonrr\workspace\Calculator-Challenge\bin\Debug\netcoreapp3.1\Calculator-Challenge.pdb
+C:\Users\Jonrr\workspace\Calculator-Challenge\obj\Debug\netcoreapp3.1\Calculator-Challenge.csprojAssemblyReference.cache
+C:\Users\Jonrr\workspace\Calculator-Challenge\obj\Debug\netcoreapp3.1\Calculator-Challenge.AssemblyInfoInputs.cache
+C:\Users\Jonrr\workspace\Calculator-Challenge\obj\Debug\netcoreapp3.1\Calculator-Challenge.AssemblyInfo.cs
+C:\Users\Jonrr\workspace\Calculator-Challenge\obj\Debug\netcoreapp3.1\Calculator-Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Jonrr\workspace\Calculator-Challenge\obj\Debug\netcoreapp3.1\Calculator-Challenge.dll
+C:\Users\Jonrr\workspace\Calculator-Challenge\obj\Debug\netcoreapp3.1\Calculator-Challenge.pdb
+C:\Users\Jonrr\workspace\Calculator-Challenge\obj\Debug\netcoreapp3.1\Calculator-Challenge.genruntimeconfig.cache
